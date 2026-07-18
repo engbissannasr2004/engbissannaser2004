@@ -30,8 +30,5 @@ I'm a Software Engineering student passionate about building responsive and user
 - Figma
 
 ## 🤝 Connect with Me
-Linkedin : www.linkedin.com/in/besan-lsmat-naser-32877138b
-
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: www.linkedin.com/in/besan-lsmat-naser-32877138b
+- GitHub: https://github.com/engbissannasr2004
